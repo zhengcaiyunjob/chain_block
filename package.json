@@ -1,0 +1,22 @@
+{
+  "name": "chain_block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chainblock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengcaiyunjob/chain_block.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengcaiyunjob/chain_block/issues"
+  },
+  "homepage": "https://github.com/zhengcaiyunjob/chain_block#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
